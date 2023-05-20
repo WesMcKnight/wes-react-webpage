@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/wes-react-webpage/static/css/main.b6afc891.css",
-    "main.js": "/wes-react-webpage/static/js/main.29c8654d.js",
+    "main.js": "/wes-react-webpage/static/js/main.247328ce.js",
     "index.html": "/wes-react-webpage/index.html",
     "main.b6afc891.css.map": "/wes-react-webpage/static/css/main.b6afc891.css.map",
-    "main.29c8654d.js.map": "/wes-react-webpage/static/js/main.29c8654d.js.map"
+    "main.247328ce.js.map": "/wes-react-webpage/static/js/main.247328ce.js.map"
   },
   "entrypoints": [
     "static/css/main.b6afc891.css",
-    "static/js/main.29c8654d.js"
+    "static/js/main.247328ce.js"
   ]
 }
